@@ -1,0 +1,6 @@
+#Tue Jul 26 14:00:32 GMT 2022
+module-resource*?\:dev/checkstyle-suppressions.xml=2011FDFF82EC27C073FF9A1897A79A63F0111855
+/opt/qspark/Q-Spark-Extension/external/avro/src/test/resources/log4j.properties=1645781393000
+/opt/qspark/Q-Spark-Extension/external/avro/src/main/java/org/apache/spark/sql/avro/SparkAvroKeyOutputFormat.java=1645781393000
+/opt/qspark/Q-Spark-Extension/external/avro/src/test/java/org/apache/spark/sql/avro/JavaAvroFunctionsSuite.java=1645781393000
+configuration*?=AE14DB996DD70DA483D93A220974885D3ED2211B

@@ -1,0 +1,24 @@
+#Tue Jul 26 13:56:33 GMT 2022
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToListInt.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/resources/log4j.properties=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/main/scala/org/apache/spark/sql/hive/package-info.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFStringString.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/resources/data/conf/hive-log4j.properties=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/JavaMetastoreDataSourcesSuite.java=1645781393000
+module-resource*?\:dev/checkstyle-suppressions.xml=2011FDFF82EC27C073FF9A1897A79A63F0111855
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/JavaDataFrameSuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFRawList.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFRawMap.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/orc/SparkOrcNewRecordReader.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDAFEmpty.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToStringIntMap.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToListString.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFListString.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFWildcardList.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFListListInt.java=1645781393000
+configuration*?=DDF34ECA8482332F4FAAC6826A8099CF1E52F9A0
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/test/Complex.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFTwoListList.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFIntegerToString.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToIntIntMap.java=1645781393000
+/opt/qspark/Q-Spark-Extension/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToListMapStringListInt.java=1645781393000

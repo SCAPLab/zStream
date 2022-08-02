@@ -1,0 +1,5 @@
+#Tue Jul 26 13:58:43 GMT 2022
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10-sql/src/test/resources/log4j.properties=1645781393000
+module-resource*?\:dev/checkstyle-suppressions.xml=2011FDFF82EC27C073FF9A1897A79A63F0111855
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/package-info.java=1645781393000
+configuration*?=E0EB2769DD58B0E5366D790363D6E12EFB3F39C9

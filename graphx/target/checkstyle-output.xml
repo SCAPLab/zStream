@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/opt/qspark/Q-Spark-Extension/graphx/src/main/java/org/apache/spark/graphx/TripletFields.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/graphx/src/main/java/org/apache/spark/graphx/impl/EdgeActiveness.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/graphx/src/main/scala/org/apache/spark/graphx/lib/package-info.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/graphx/src/main/scala/org/apache/spark/graphx/package-info.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/graphx/src/main/scala/org/apache/spark/graphx/util/package-info.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/graphx/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

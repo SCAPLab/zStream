@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/status/api/v1/streaming/BatchStatus.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/streaming/util/WriteAheadLogRecordHandle.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/streaming/util/WriteAheadLog.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/streaming/StreamingContextState.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/main/scala/org/apache/spark/streaming/api/java/package-info.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/main/scala/org/apache/spark/streaming/dstream/package-info.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaDurationSuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaReceiverAPISuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaMapWithStateSuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaStreamingListenerAPISuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaWriteAheadLogSuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaTimeSuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/test/org/apache/spark/streaming/Java8APISuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/java/test/org/apache/spark/streaming/JavaAPISuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/streaming/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

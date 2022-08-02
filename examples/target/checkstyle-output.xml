@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaBucketedRandomProjectionLSHExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaMulticlassLogisticRegressionWithElasticNetExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaVectorIndexerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaChiSqSelectorExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaPCAExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaALSExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaRandomForestClassifierExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaNormalizerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaBisectingKMeansExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaKMeansExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaMaxAbsScalerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaMinHashLSHExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaStringIndexerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaBinarizerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaWord2VecExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaPolynomialExpansionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaSummarizerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaVectorSlicerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaFMRegressorExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaNGramExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaModelSelectionViaTrainValidationSplitExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaNaiveBayesExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaVectorSizeHintExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaImputerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaPipelineExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaRandomForestRegressorExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaRFormulaExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaOneVsRestExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaDecisionTreeRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaLogisticRegressionSummaryExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaStopWordsRemoverExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaEstimatorTransformerParamExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaLabeledDocument.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaCountVectorizerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaPowerIterationClusteringExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaTokenizerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaInteractionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaElementwiseProductExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaFeatureHasherExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaLDAExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaStandardScalerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaMultilayerPerceptronClassifierExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaLogisticRegressionWithElasticNetExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaSQLTransformerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaDecisionTreeClassificationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaFMClassifierExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaDocument.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaBucketizerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaPrefixSpanExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaMinMaxScalerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaGradientBoostedTreeClassifierExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaGaussianMixtureExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaTfIdfExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaIsotonicRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaFPGrowthExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaGeneralizedLinearRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaModelSelectionViaCrossValidationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaAFTSurvivalRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaVectorAssemblerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaCorrelationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaOneHotEncoderExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaDCTExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaLinearSVCExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaIndexToStringExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaChiSquareTestExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaLinearRegressionWithElasticNetExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaGradientBoostedTreeRegressorExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaQuantileDiscretizerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/ml/JavaRobustScalerExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaHypothesisTestingKolmogorovSmirnovTestExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaChiSqSelectorExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaPCAExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaLBFGSExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaBisectingKMeansExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaKMeansExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaSVDExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaNaiveBayesExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaLatentDirichletAllocationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaRecommendationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaRankingMetricsExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaMultiLabelClassificationMetricsExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaSVMWithSGDExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaDecisionTreeRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaCorrelationsExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaPowerIterationClusteringExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaElementwiseProductExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaGradientBoostingRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaKernelDensityEstimationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaStreamingTestExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaHypothesisTestingExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaALS.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaRandomForestRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaDecisionTreeClassificationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaPrefixSpanExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaMulticlassClassificationMetricsExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaLogisticRegressionWithLBFGSExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaGaussianMixtureExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaIsotonicRegressionExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaGradientBoostingClassificationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaSummaryStatisticsExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaRandomForestClassificationExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaAssociationRulesExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaBinaryClassificationMetricsExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaStratifiedSamplingExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/mllib/JavaSimpleFPGrowth.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/JavaStatusTrackerDemo.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/JavaLogQuery.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/JavaHdfsLR.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/JavaTC.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/JavaUserDefinedTypedAggregation.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/JavaSparkSQLExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/hive/JavaSparkHiveExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/JavaUserDefinedUntypedAggregation.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/streaming/JavaStructuredKafkaWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/streaming/JavaStructuredNetworkWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/streaming/JavaStructuredKerberizedKafkaWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/streaming/JavaStructuredNetworkWordCountWindowed.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/streaming/JavaStructuredSessionization.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/JavaUserDefinedScalar.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/sql/JavaSQLDataSourceExample.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/JavaWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaDirectKafkaWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaStatefulNetworkWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaCustomReceiver.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaDirectKerberizedKafkaWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaQueueStream.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaRecord.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaNetworkWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaRecoverableNetworkWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/streaming/JavaSqlNetworkWordCount.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/JavaSparkPi.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/examples/src/main/java/org/apache/spark/examples/JavaPageRank.java">
+</file>
+</checkstyle>

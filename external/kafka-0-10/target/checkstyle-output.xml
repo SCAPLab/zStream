@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/package-info.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaConsumerStrategySuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaDirectKafkaStreamSuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaKafkaRDDSuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaLocationStrategySuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

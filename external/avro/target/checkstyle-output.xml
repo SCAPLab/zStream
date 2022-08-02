@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/opt/qspark/Q-Spark-Extension/external/avro/src/main/java/org/apache/spark/sql/avro/SparkAvroKeyOutputFormat.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/avro/src/test/java/org/apache/spark/sql/avro/JavaAvroFunctionsSuite.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/avro/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,19 @@
+#Tue Jul 26 13:48:32 GMT 2022
+/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/streaming/util/WriteAheadLog.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/resources/log4j.properties=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaReceiverAPISuite.java=1645781393000
+module-resource*?\:dev/checkstyle-suppressions.xml=2011FDFF82EC27C073FF9A1897A79A63F0111855
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/test/org/apache/spark/streaming/JavaAPISuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaWriteAheadLogSuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/main/scala/org/apache/spark/streaming/dstream/package-info.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaMapWithStateSuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/status/api/v1/streaming/BatchStatus.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaTimeSuite.java=1645781393000
+configuration*?=3A17C88E704EE49DD00C150B2F168411A9AC2248
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/test/org/apache/spark/streaming/Java8APISuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/streaming/util/WriteAheadLogRecordHandle.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaDurationSuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/main/java/org/apache/spark/streaming/StreamingContextState.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/JavaStreamingListenerAPISuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java=1645781393000
+/opt/qspark/Q-Spark-Extension/streaming/src/main/scala/org/apache/spark/streaming/api/java/package-info.java=1645781393000

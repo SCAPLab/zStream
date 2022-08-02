@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <exec executable="bash">
+    <arg value="/opt/qspark/Q-Spark-Extension/core/../build/spark-build-info"/>
+    <arg value="/opt/qspark/Q-Spark-Extension/core/target/extra-resources"/>
+    <arg value="3.0.1"/>
+  </exec>
+</target>
+</project>

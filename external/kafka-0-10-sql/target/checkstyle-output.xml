@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10-sql/src/main/scala/org/apache/spark/sql/kafka010/package-info.java">
+</file>
+<file name="/opt/qspark/Q-Spark-Extension/external/kafka-0-10-sql/src/test/resources/log4j.properties">
+</file>
+</checkstyle>

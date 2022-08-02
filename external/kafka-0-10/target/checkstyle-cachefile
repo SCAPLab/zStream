@@ -1,0 +1,9 @@
+#Tue Jul 26 13:57:58 GMT 2022
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaLocationStrategySuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaKafkaRDDSuite.java=1645781393000
+module-resource*?\:dev/checkstyle-suppressions.xml=2011FDFF82EC27C073FF9A1897A79A63F0111855
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaDirectKafkaStreamSuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/java/org/apache/spark/streaming/kafka010/JavaConsumerStrategySuite.java=1645781393000
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/test/resources/log4j.properties=1645781393000
+/opt/qspark/Q-Spark-Extension/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/package-info.java=1645781393000
+configuration*?=EBE3E84AA427C3FC3764C440F86D81E290B45578
