@@ -6,7 +6,7 @@ zStream(Towards a Low Latency Micro-Batch Streaming System)
 
 ## zStream Paper
 - S. Lee, Y. Jeong, M. Kim and S. Park, "Q-Spark: QoS Aware Micro-batch Stream Processing System Using Spark," 2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C), 2021, pp. 38-43, doi: 10.1109/ACSOS-C52956.2021.00027.
-- Cluster Computing Journal 22(Currently revisioning..)
+- Lee, Suyeon & Jeong, Yeonwoo & Park, Kyuli & Jung, Gyeonghwan & Park, Sungyong. (2022). zStream: towards a low latency micro-batch streaming system. Cluster Computing. 1-15. 10.1007/s10586-022-03758-1. 
 
 ### zStream Benchmark
 - https://www.vldb.org/conf/2004/RS12P1.PDF
